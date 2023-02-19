@@ -1,15 +1,15 @@
 {
-  "main.css": "/TextUtils-Reactjs/static/css/main.7865e8cb.chunk.css",
-  "main.js": "/TextUtils-Reactjs/static/js/main.a4828212.chunk.js",
-  "main.js.map": "/TextUtils-Reactjs/static/js/main.a4828212.chunk.js.map",
-  "static/js/1.3bc8ac50.chunk.js": "/TextUtils-Reactjs/static/js/1.3bc8ac50.chunk.js",
-  "static/js/1.3bc8ac50.chunk.js.map": "/TextUtils-Reactjs/static/js/1.3bc8ac50.chunk.js.map",
-  "static/js/2.37eb27e2.chunk.js": "/TextUtils-Reactjs/static/js/2.37eb27e2.chunk.js",
-  "static/js/2.37eb27e2.chunk.js.map": "/TextUtils-Reactjs/static/js/2.37eb27e2.chunk.js.map",
-  "runtime~main.js": "/TextUtils-Reactjs/static/js/runtime~main.966f3678.js",
-  "runtime~main.js.map": "/TextUtils-Reactjs/static/js/runtime~main.966f3678.js.map",
-  "static/css/main.7865e8cb.chunk.css.map": "/TextUtils-Reactjs/static/css/main.7865e8cb.chunk.css.map",
-  "index.html": "/TextUtils-Reactjs/index.html",
-  "precache-manifest.0d609955cc420cf2593c5b0d1d297132.js": "/TextUtils-Reactjs/precache-manifest.0d609955cc420cf2593c5b0d1d297132.js",
-  "service-worker.js": "/TextUtils-Reactjs/service-worker.js"
+  "main.css": "/mr-anshu-raj/TextUtils-Reactjs/static/css/main.7865e8cb.chunk.css",
+  "main.js": "/mr-anshu-raj/TextUtils-Reactjs/static/js/main.a4828212.chunk.js",
+  "main.js.map": "/mr-anshu-raj/TextUtils-Reactjs/static/js/main.a4828212.chunk.js.map",
+  "static/js/1.3bc8ac50.chunk.js": "/mr-anshu-raj/TextUtils-Reactjs/static/js/1.3bc8ac50.chunk.js",
+  "static/js/1.3bc8ac50.chunk.js.map": "/mr-anshu-raj/TextUtils-Reactjs/static/js/1.3bc8ac50.chunk.js.map",
+  "static/js/2.37eb27e2.chunk.js": "/mr-anshu-raj/TextUtils-Reactjs/static/js/2.37eb27e2.chunk.js",
+  "static/js/2.37eb27e2.chunk.js.map": "/mr-anshu-raj/TextUtils-Reactjs/static/js/2.37eb27e2.chunk.js.map",
+  "runtime~main.js": "/mr-anshu-raj/TextUtils-Reactjs/static/js/runtime~main.542c040b.js",
+  "runtime~main.js.map": "/mr-anshu-raj/TextUtils-Reactjs/static/js/runtime~main.542c040b.js.map",
+  "static/css/main.7865e8cb.chunk.css.map": "/mr-anshu-raj/TextUtils-Reactjs/static/css/main.7865e8cb.chunk.css.map",
+  "index.html": "/mr-anshu-raj/TextUtils-Reactjs/index.html",
+  "precache-manifest.2d7c13e06befa8a303825e19ab79ea6f.js": "/mr-anshu-raj/TextUtils-Reactjs/precache-manifest.2d7c13e06befa8a303825e19ab79ea6f.js",
+  "service-worker.js": "/mr-anshu-raj/TextUtils-Reactjs/service-worker.js"
 }

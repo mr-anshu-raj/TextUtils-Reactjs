@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TextUtils-Reactjs/precache-manifest.0d609955cc420cf2593c5b0d1d297132.js"
+  "/mr-anshu-raj/TextUtils-Reactjs/precache-manifest.2d7c13e06befa8a303825e19ab79ea6f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/TextUtils-Reactjs/index.html", {
+workbox.routing.registerNavigationRoute("/mr-anshu-raj/TextUtils-Reactjs/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
